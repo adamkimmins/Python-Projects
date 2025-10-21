@@ -41,7 +41,7 @@ def safe_move(src, dest_folder):
         print(f"Skipped {src.name}: {e}")
 
 # Prompt
-print("This program will organize your OneDrive and Documents folders.")
+print("This program will organize your OneDrive, Downloads and Documents folders.")
 print("• All Images → Pictures")
 print("• All Docs, PDFs, and Spreadsheets → Documents\n")
 
@@ -102,5 +102,6 @@ if downloads.exists():
                 safe_move(file, onedrive / "Pictures")
 #print
 print("\n✅ Sorting complete")
+
 
 
