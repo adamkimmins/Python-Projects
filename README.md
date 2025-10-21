@@ -21,3 +21,9 @@ Works on any Windows system
 1. **Download** the script or clone this repo:
    ```bash
    git clone https://github.com/adamkimmins/universal-file-sorter.git
+2. **Open** the folder:
+   ```bash
+   cd universal-file-sorter
+3. **Run** the script:
+   ```bash
+   python universal_sorter.py
