@@ -20,4 +20,4 @@ Works on any Windows system
 ## ⚙️ Usage
 1. **Download** the script or clone this repo:
    ```bash
-   git clone https://github.com/YOUR_GITHUB/universal-file-sorter.git
+   git clone https://github.com/adamkimmins/universal-file-sorter.git
