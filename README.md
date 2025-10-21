@@ -6,11 +6,11 @@ Works on any Windows system
 ---
 
 ## 🚀 Features
-- Detects OneDrive path automatically (any name or account type)
+- Detects OneDrive path automatically
 - Sorts files by type:
-  - `.doc`, `.docx` → `/Documents/docs`
-  - `.pdf` → `/Documents/pdfs`
-  - `.xls`, `.xlsx`, `.csv` → `/Documents/spreadsheets`
+  - Docs → `/Documents/docs`
+  - PDFs → `/Documents/pdfs`
+  - Spreadsheets → `/Documents/spreadsheets`
   - Images → `/OneDrive/Pictures`
 - Creates folders if missing
 - Safe, lightweight, and fully portable
