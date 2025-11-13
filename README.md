@@ -1,11 +1,13 @@
-# 🗂️ Universal File Sorter (Python)
+# Universal File Sorter (Python)
 
 A lightweight Python script that automatically organizes your **OneDrive**, **Documents**, and **Downloads** folders into clean, structured subfolders.
 Works on any Windows system
 
+I know this is one of the most common scripts I could've made, but I wanted to work on my file directory whilst learning Python
+
 ---
 
-## 🚀 Features
+## Features
 - Detects OneDrive path automatically
 - Sorts files by type:
   - Docs → `/Documents/docs`
@@ -13,11 +15,11 @@ Works on any Windows system
   - Spreadsheets → `/Documents/spreadsheets`
   - Images → `/OneDrive/Pictures`
 - Creates folders if missing
-- Safe, lightweight, and fully portable
+- Safe, lightweight, and portable
 
 ---
 
-## ⚙️ Usage
+## Usage
 1. **Download** the script or clone this repo:
    ```bash
    git clone https://github.com/adamkimmins/universal-file-sorter.git
